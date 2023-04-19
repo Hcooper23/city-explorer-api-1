@@ -18,3 +18,4 @@ const PORT = process.env.PORT || 3002;
 // listens to the
 // have it listen on that port //
 app.listen(PORT, () => console.log('We are up on port ${PORT}'));
+// console.log(`We are up on port ${PORT}`);
